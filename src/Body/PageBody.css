@@ -1,0 +1,29 @@
+.Jumbo {
+  background-color: transparent !important;
+  color: antiquewhite !important;
+  padding-left: 12.5%;
+  padding-right: 12.5%;
+  align-content: center !important;
+  margin-bottom: 15px;
+}
+.PaymentDetailsDivision {
+  color: antiquewhite !important;
+  padding-left: 12.5%;
+  padding-right: 12.5%;
+  align-content: center !important;
+}
+.Form {
+  background-color: transparent !important;
+  color: antiquewhite !important;
+  align-content: center !important;
+  display: block;
+  margin: 5px 15%;
+  padding: 2% 2%;
+}
+
+.PaymentDetailsDivision {
+  border-bottom: 2px !important;
+  padding: 1% 2%;
+  display: block !important;
+  border-bottom: 2px dotted antiquewhite !important;
+}
